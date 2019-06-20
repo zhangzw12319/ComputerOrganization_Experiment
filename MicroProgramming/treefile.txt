@@ -1,0 +1,126 @@
+文件夹 PATH 列表
+卷序列号为 4027-3BB4
+C:.
+│  3mux1_16.bdf
+│  3mux1_16.bsf
+│  ALU.bdf
+│  ALU.bsf
+│  div.bsf
+│  div.cmp
+│  div.qip
+│  div.vhd
+│  err_info.txt
+│  err_reading.txt
+│  houji.bdf
+│  houji.bsf
+│  Micro_Programming.bdf
+│  Micro_Programming.qpf
+│  Micro_Programming.qsf
+│  Micro_Programming.qws
+│  Micro_Programming_assignment_defaults.qdf
+│  mult.bsf
+│  mult.cmp
+│  mult.qip
+│  mult.vhd
+│  mux16.bdf
+│  mux16.bsf
+│  mux2.bdf
+│  mux2.bsf
+│  mux3.bdf
+│  mux3.bsf
+│  On_Off.bdf
+│  On_Off.bsf
+│  RAM.bsf
+│  RAM.cmp
+│  ram.mif
+│  RAM.qip
+│  RAM.vhd
+│  Reg16.bdf
+│  Reg16.bsf
+│  ROM.bsf
+│  ROM.cmp
+│  rom.mif
+│  ROM.qip
+│  ROM.vhd
+│  rom_nextadd.bsf
+│  rom_nextadd.cmp
+│  rom_nextadd.qip
+│  rom_nextadd.vhd
+│  rom_Nextaddr.mif
+│  treefile.txt
+│  uPC.bdf
+│  uPC.bsf
+│  
+├─db
+│      .cmp.kpt
+│      add_sub_7pc.tdf
+│      add_sub_8pc.tdf
+│      altsyncram_18v3.tdf
+│      altsyncram_7nc1.tdf
+│      altsyncram_a8e2.tdf
+│      altsyncram_cos2.tdf
+│      altsyncram_p5v3.tdf
+│      altsyncram_pad2.tdf
+│      altsyncram_rmb1.tdf
+│      altsyncram_sss2.tdf
+│      alt_u_div_h7f.tdf
+│      decode_k8a.tdf
+│      decode_rsa.tdf
+│      logic_util_heursitic.dat
+│      lpm_divide_m6r.tdf
+│      Micro_Programming.db_info
+│      Micro_Programming.ipinfo
+│      Micro_Programming.sld_design_entry.sci
+│      mult_t5n.tdf
+│      mux_qob.tdf
+│      prev_cmp_Micro_Programming.qmsg
+│      sign_div_unsign_p7h.tdf
+│      
+├─greybox_tmp
+│  │  cbx_args.txt
+│  │  
+│  └─greybox_tmp
+├─incremental_db
+│  │  README
+│  │  
+│  └─compiled_partitions
+│          Micro_Programming.db_info
+│          
+├─output_files
+│  │  Micro_Programming.asm.rpt
+│  │  Micro_Programming.done
+│  │  Micro_Programming.eda.rpt
+│  │  Micro_Programming.fit.rpt
+│  │  Micro_Programming.fit.smsg
+│  │  Micro_Programming.fit.summary
+│  │  Micro_Programming.flow.rpt
+│  │  Micro_Programming.jdi
+│  │  Micro_Programming.map.rpt
+│  │  Micro_Programming.map.summary
+│  │  Micro_Programming.pin
+│  │  Micro_Programming.sof
+│  │  Micro_Programming.sta.rpt
+│  │  Micro_Programming.sta.summary
+│  │  RAM.qip
+│  │  rom.qip
+│  │  rom_nextadd.qip
+│  │  
+│  ├─greybox_tmp
+│  │      cbx_args.txt
+│  │      
+│  └─output_files
+│          Chain4.cdf
+│          
+└─simulation
+    └─modelsim
+            Micro_Programming.sft
+            Micro_Programming.vho
+            Micro_Programming_8_1200mv_0c_slow.vho
+            Micro_Programming_8_1200mv_0c_vhd_slow.sdo
+            Micro_Programming_8_1200mv_85c_slow.vho
+            Micro_Programming_8_1200mv_85c_vhd_slow.sdo
+            Micro_Programming_min_1200mv_0c_fast.vho
+            Micro_Programming_min_1200mv_0c_vhd_fast.sdo
+            Micro_Programming_modelsim.xrf
+            Micro_Programming_vhd.sdo
+            

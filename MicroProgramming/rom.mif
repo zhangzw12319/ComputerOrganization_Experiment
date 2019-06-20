@@ -1,0 +1,128 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=32;
+DEPTH=1024;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	0     :   80000001;
+	1     :   9D320401;
+	2     :   80020031;
+	3     :   B4B20441;
+	4     :   80020081;
+	5     :   80000003;
+	[6..31]  :   00000000;
+	32    :   AFB21001;
+	33    :   80020031;
+	34    :   AFB22001;
+	35    :   80020201;
+	36    :   80000002;
+	[37..47]  :   00000000;
+	48    :   AFB24001;
+	49    :   80020031;
+	50    :   AFB22001;
+	51    :   80020201;
+	52    :   80000002;
+	[53..63]  :   00000000;
+	64    :   AFB21001;
+	65    :   80020021;
+	66    :   AFB24001;
+	67    :   80020009;
+	68    :   80000001;
+	69    :   80000002;
+	[70..79]  :   00000000;
+	80    :   9D320801;
+	81    :   80020021;
+	82    :   AFB24001;
+	83    :   80020009;
+	84    :   80000001;
+	85    :   80000002;
+	[86..95]  :   00000000;
+	96    :   AFB24001;
+	97    :   80020101;
+	98    :   80000002;
+	[99..111]  :   00000000;
+	112   :   9D320801;
+	113   :   80020201;
+	114   :   80000002;
+	[115..127]  :   00000000;
+	128   :   AFB24001;
+	129   :   80020081;
+	130   :   80000002;
+	[131..143]  :   00000000;
+	144   :   9D320801;
+	145   :   80020081;
+	146   :   80000002;
+	[147..159]  :   00000000;
+	160   :   F0004804;
+	[161..175]  :   00000000;
+	176   :   B0000001;
+	177   :   80000002;
+	[178..183]  :   00000000;
+	184   :   B4F21401;
+	185   :   80020081;
+	186   :   80000002;
+	[187..191]  :   00000000;
+	192   :   B4F24801;
+	193   :   80020201;
+	194   :   80000002;
+	[195..223]  :   00000000;
+	224   :   B3324801;
+	225   :   80020201;
+	226   :   80000002;
+	[227..255]  :   00000000;
+	256   :   B0014801;
+	257   :   80010201;
+	258   :   80000002;
+	[259..287]  :   00000000;
+	288   :   B000C801;
+	289   :   80008201;
+	290   :   80000002;
+	[291..319]  :   00000000;
+	320   :   BDB24801;
+	321   :   80020201;
+	322   :   80000002;
+	[323..351]  :   00000000;
+	352   :   BF324801;
+	353   :   80020201;
+	354   :   80000002;
+	[355..383]  :   00000000;
+	384   :   A8324001;
+	385   :   80020201;
+	386   :   80000002;
+	[387..399]  :   00000000;
+	400   :   9AB20801;
+	401   :   80020201;
+	402   :   80000002;
+	[403..415]  :   00000000;
+	416   :   BB324801;
+	417   :   80020201;
+	418   :   80000002;
+	[419..447]  :   00000000;
+	448   :   AFB24001;
+	449   :   80280001;
+	450   :   80020201;
+	451   :   80000002;
+	[452..463]  :   00000000;
+	464   :   AFB24001;
+	465   :   80100001;
+	466   :   80020201;
+	467   :   80000002;
+	[468..1023]  :   00000000;
+END;

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu May 16 14:00:54 2019
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : Micro_Programming
+Top-level Entity Name : Micro_Programming
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 989 / 6,272 ( 16 % )
+    Total combinational functions : 921 / 6,272 ( 15 % )
+    Dedicated logic registers : 391 / 6,272 ( 6 % )
+Total registers : 391
+Total pins : 44 / 92 ( 48 % )
+Total virtual pins : 0
+Total memory bits : 59,392 / 276,480 ( 21 % )
+Embedded Multiplier 9-bit elements : 1 / 30 ( 3 % )
+Total PLLs : 0 / 2 ( 0 % )

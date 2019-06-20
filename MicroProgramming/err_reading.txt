@@ -1,0 +1,6 @@
+Error (125048): Error reading Quartus II Settings File C:/Users/lenovo/Desktop/Exp3/Micro_Programming.qsf, line 81
+	Info (125063): set_global_assignment -name ENABLE_CONFIGURATION_PINS OFF
+Error (125048): Error reading Quartus II Settings File C:/Users/lenovo/Desktop/Exp3/Micro_Programming.qsf, line 82
+	Info (125063): set_global_assignment -name ENABLE_NCE_PIN OFF
+Error (125048): Error reading Quartus II Settings File C:/Users/lenovo/Desktop/Exp3/Micro_Programming.qsf, line 83
+	Info (125063): set_global_assignment -name ENABLE_BOOT_SEL_PIN OFF
